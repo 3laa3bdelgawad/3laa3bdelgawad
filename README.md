@@ -1,7 +1,8 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="rightr">Hello 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-I'm Alaa AbdelgawadData Analyst with skills in:
+I'm Alaa Abdelgawad   Data analyst passionate about transforming raw data into meaningful insights that can help drive business decisions. I thrive on the challenge of uncovering patterns, trends, and insights that others may miss, and I am constantly exploring new tools and techniques to improve my data analysis skills. I love working with others to achieve common goals, and I believe that effective communication and collaboration are essential to success in any data-driven project. 
+my  skills includes:
 - **Python**
 - **SQL** 
 - **Tableau**
@@ -13,17 +14,3 @@ I'm Alaa AbdelgawadData Analyst with skills in:
 - **Statistical analysis**
 - **Data visualization**
 
-- Ask me about **Data Analysis , Marketing Analysis**
-
-- Email : **alaaabdelgawad397@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alaaabdelgawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaaabdelgawad" height="30" width="40" /></a>
-<a href="https://instagram.com/3laa_3bdelgawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3laa_3bdelgawad" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=3laa3bdelgawad&show_icons=true&locale=en&layout=compact" alt="3laa3bdelgawad" /></p>
