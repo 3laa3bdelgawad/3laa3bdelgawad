@@ -1,12 +1,17 @@
-<h1 align="center">Hello 👋, I'm Alaa Abdelgawad</h1>
+<h1 align="center">Hello 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-Data Analyst with skills in:
+I'm Alaa AbdelgawadData Analyst with skills in:
 - **Python**
 - **SQL** 
 - **Tableau**
 - **Power BI**
 - **Excel**
+- **Marketing analysis** 
+- **Data cleansing and preparation**
+- **Data modeling**
+- **Statistical analysis**
+- **Data visualization**
 
 - Ask me about **Data Analysis , Marketing Analysis**
 
