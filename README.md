@@ -11,7 +11,7 @@ my  skills includes:
 - Power BI
 - Excel
 - Marketing analysis
-- Data cleansing and preparation
+- Data cleaning and preparation
 - Data modeling
 - Statistical analysis
 - Data visualization
