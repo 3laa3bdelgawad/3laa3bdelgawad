@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaa Abdelgawad</h1>
 <h3 align="center">A passionate Data Analyst from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif")
+<img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 - I’m currently learning **SQL , Tableau**
 
