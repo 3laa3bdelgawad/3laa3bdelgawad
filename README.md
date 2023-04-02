@@ -1,7 +1,7 @@
-[![MasterHead](https://wallpapercave.com/wp/wp9904460.png)]
 <h1 align="center">Hi 👋, I'm Alaa Abdelgawad</h1>
 <h3 align="center">A passionate Data Analyst from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/16116886-Data-Inform-Illustration-Animation-Gif-Json")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1523313/screenshots/13671653/media/7c52f9d4b1117aa12f3bf9f9c3b9e1aa.gif")
+
 - I’m currently learning **SQL , Tableau**
 
 - Ask me about **Data Analysis , Marketing Analysis**
