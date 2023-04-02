@@ -1,14 +1,12 @@
 <h1 align="center">Hello 👋, I'm Alaa Abdelgawad</h1>
-<h3 align="center">a data analyst with expertise in Python, SQL, Tableau, Power BI, and Excel. I have a background in digital marketing and marketing analysis, with experience in SEO, SEM, email marketing, social media marketing, and web analytics.
-
-I have a proven track record of delivering data-driven solutions and insights that drive business growth. I am skilled in developing and implementing data models, designing and automating reports, and performing statistical analysis to identify patterns, trends, and insights. I have experience in data cleansing, data integration, and data visualization, and am proficient in using advanced analytical techniques such as regression analysis, time series analysis, and machine learning.
-
-In addition, I have contributed to the development of data-driven marketing strategies, leveraging data insights to optimize campaigns and improve customer engagement. I am skilled in conducting market research, developing customer segmentation models, and measuring the effectiveness of marketing programs.
-
-Overall, I am a strong communicator and collaborator, constantly seeking to learn and improve my skills. Feel free to check out my GitHub profile to see some of my projects and code samples</h3>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
-- I’m currently learning **SQL , Tableau**
+Data Analyst with skills in:
+- **Python**
+- **SQL** 
+- **Tableau**
+- **Power BI**
+- **Excel**
 
 - Ask me about **Data Analysis , Marketing Analysis**
 
