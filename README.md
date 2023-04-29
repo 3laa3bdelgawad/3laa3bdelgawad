@@ -1,5 +1,5 @@
 <h1 align="rightr">Hello 👋</h1>
-<img align="right" alt="Coding" width="400" src="[https://aryng.com/assets/img/ani2.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffc%2F71%2F63%2Ffc71635c7f1b09ed30413f59bb749582.gif&tbnid=eqloULIQ2e54BM&vet=12ahUKEwig3diIqM7-AhWypkwKHahwAnEQMygEegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761730704419%2F&docid=sZiEVIavh9I1sM&w=800&h=600&q=gif%20for%20data%20analyst&ved=2ahUKEwig3diIqM7-AhWypkwKHahwAnEQMygEegUIARDoAQ)">
+<img align="right" alt="Coding" width="400" src="[[https://aryng.com/assets/img/ani2.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffc%2F71%2F63%2Ffc71635c7f1b09ed30413f59bb749582.gif&tbnid=eqloULIQ2e54BM&vet=12ahUKEwig3diIqM7-AhWypkwKHahwAnEQMygEegUIARDoAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F311381761730704419%2F&docid=sZiEVIavh9I1sM&w=800&h=600&q=gif%20for%20data%20analyst&ved=2ahUKEwig3diIqM7-AhWypkwKHahwAnEQMygEegUIARDoAQ)](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)">
 
 
 
