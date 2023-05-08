@@ -17,4 +17,5 @@ Data analyst passionate about turning raw data into actionable insights that dri
 - Data modeling
 - Statistical analysis
 - Data visualization
+- Storytelling with data
 
